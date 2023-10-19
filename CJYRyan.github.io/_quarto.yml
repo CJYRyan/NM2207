@@ -1,0 +1,34 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Chen Junyu Ryan"
+  description: "All Things Arts And Architecture"   
+  image: Img/my_image.png
+  
+  favicon: Img/favicon.png
+  
+navbar:
+
+ left:
+      - text: "Artworks"
+        href: Artworks/index.qmd
+      - text: "Architecture"
+        href: Architecture/index.qmd
+      - text: "Projects"
+        href: Projects/index.qmd
+ right:
+      - icon: instagram
+        href: https://www.instagram.com/toiletbowllthoughts/
+      - icon: envelope
+        aria-label: email
+        href: "e0958180@u.nus.com"     
+ 
+format:
+  html:
+    theme: cosmo
+    css: style.css
+    toc: true
+  
+editor: visual

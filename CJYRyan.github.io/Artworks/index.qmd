@@ -1,0 +1,23 @@
+---
+title: Artworks
+---
+
+## UOB Painting Of The Year "Highly Commended"
+
+<img src="project_1_banner.png" style="height: 100%; width: 100%; object-fit: contain" onclick="window.open('https://www.uobgroup.com/uobandart/uncovering-talent/painting-of-the-year/winners-showcase.html', 'blank');"/>
+
+Unlabelled is a collection of unlabelled bottles in varied sizes, filled with water and laid out in different configurations.
+
+To the artist, the idea of identity is a fluid one that is never fixed, just like water. Here, the water takes on whatever shapes the bottles hold, a representation of one’s search for identity while growing up, attempting to fit into the different moulds and forms as dictated by societal norms. With the labels of the bottles peeled off, the artist is also suggesting that the search for identity is an endless and uncertain one. The bottles are leaning against one another precariously, highlighting the tension and struggle people go through during this search.
+
+----
+
+## Queery
+
+<img src="project_2_banner.png" style="height: 100%; width: 100%; object-fit: contain" onclick="window.open('https://www.instagram.com/p/CfebO2hpnAp/?img_index=1', 'blank');"/>
+
+
+Pencil and iridescent plastic
+A close up view of plastic packaging shimmering and reflecting light. Abstracting the familiar plastic into something visually captivating by contrasting black and white with the flamboyant iridescent plastic. Viewers get lost in the details as they look through the drawing and start to wonder what they are looking at. Queery seeks to be questioned, what is the artist drawing and why did the artist draw this. I would like people to ask questions and get to know more about the art as well as the LGBTQ community.
+
+

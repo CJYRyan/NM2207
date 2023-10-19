@@ -1,0 +1,27 @@
+---
+title: "All Things Arts And Architecture"
+---
+
+
+```
+
+```
+::: {#about-block}
+:::
+
+# Welcome to my website!
+I am Chen Junyu Ryan, a Year 2 Architecture aspiring to blend art and design. Ever since I was a kid, art has been a way for me to understand and express the world and my world. On this website, I offer a glimpse into my world, the exploration of the arts, architecture and projects that I am learning.
+
+My interest in new media and learning more about the online world, comes from my journey with design. My journey with design has just began and I would like to explore and showcase as much as I can. I would like to influence and infuse my design with art to show a side that is unique to myself. My strength in art lies in oil painting, I have been painting for 4 years and I was awarded "highly commended" and shortlisted for UOB painting of the year 2008 and 2023 respectively.
+
+My journey in design started in architecture school and it has impacted the way I view the world. Architecture is not only about buildings, but it is also about the people who inhabit these buildings. 
+
+
+
+On this website, you will find a selection of my artworks, architecture projects and design works. I invite you to explore my website and learn more about my life's work.Please feel free to [contact me](ryan:e0958180@u.nus.edu) if you have any commissions or enquirers on projects.
+
+```{=html}
+<div  style="margin: 30px; text-align: center;">
+<a class="btn btn-primary" href="https://www.instagram.com/toiletbowllthoughts/" role="button" target="_blank" style="padding: 15px 30px;">Instagram</a>
+</div>
+```
