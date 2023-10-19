@@ -1,0 +1,24 @@
+---
+title: "Week 9 Final Project"
+author: "Chen Junyu Ryan"
+date: "2023-10-18"
+output:
+  pdf_document: default
+  html_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+#What is the topic that you have finalized? (Answer in 1 or 2 sentences)?
+Exploring Taylor engagment and influence on social media along with her strategies like tweets, retweets, likes and music. 
+
+#What are the data sources that you have curated so far? (Answer 1 or 2 sentences).
+SOURCE 1: https://www.kaggle.com/datasets/thedevastator/taylor-swift-s-social-media-performance-tweet-en
+data source covers the number of likes, tweets and retweets from taylor swift from 2019 to 
+
+SOURCE 2: https://www.kaggle.com/datasets/jarredpriester/taylor-swift-spotify-dataset
+data source covers popularity of music, danceability and energy of taylor swift album and music.
+
+
