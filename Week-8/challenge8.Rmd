@@ -1,0 +1,16 @@
+---
+title: "challenge 8"
+author: "Chen Junyu Ryan"
+date: "2023-10-11"
+output:
+  html_document: default
+  pdf_document: default
+---
+
+```{r, out.height= "300px",out.width= "400px",echo=FALSE,eval=TRUE,fig.cap="challegne8"}
+knitr::include_graphics("challenge8.png")
+```
+```{r, out.height= "300px",out.width= "400px",echo=FALSE,eval=TRUE,fig.cap="codealong8"}
+knitr::include_graphics("codealong8.jpg")
+```
+

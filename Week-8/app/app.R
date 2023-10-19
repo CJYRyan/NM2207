@@ -1,0 +1,1 @@
+```{r} knitr::include_graphics("img/rmarkdown_hex. png") ```
