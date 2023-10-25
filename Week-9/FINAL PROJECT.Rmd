@@ -21,4 +21,17 @@ data source covers the number of likes, tweets and retweets from taylor swift fr
 SOURCE 2: https://www.kaggle.com/datasets/jarredpriester/taylor-swift-spotify-dataset
 data source covers popularity of music, danceability and energy of taylor swift album and music.
 
+Week 10 Submission
+#What is the question that you are going to answer? (Answer: One sentence that ends with a question mark that could act like the title of your data story),
+# How and why is Taylor Swift influential ?
 
+#Why is this an important question? (Answer: 3 sentences, each of which has some evidence, e.g., “According to the United Nations...” to justify why the question you have chosen is important),
+
+# 1) Impact of influencers on society is substantial, as they possess the ability to shape public opinion and mould perspectives                      (I. Gamayanto, F. Alzami and S. Novianto, "Guidelines of Influencer Intelligence: Positive & Negative Impact of Influencer to Community," 2020 International Conference on Decision Aid Sciences and Application (DASA), Sakheer, Bahrain, 2020, pp. 90-94, doi: 10.1109/DASA51403.2020.9317236.)
+
+# 2) According to CNBC "How Taylor Swift’s political endorsement could become the ‘biggest ripple ever’ at the polls" she has a great influence on people 
+
+# 3) Learning from Taylor Swift in engagment to help other influencers be more engaging 
+
+#Which rows and columns of the dataset will be used to answer this question? (Answer: Actual names of the variables in the dataset that you plan to use).
+#likescount,replycount,retweetcount,content,media,
