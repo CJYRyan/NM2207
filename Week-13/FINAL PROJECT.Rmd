@@ -1,5 +1,5 @@
 ---
-title: "Week 11 Final Project"
+title: "Week 9 Final Project"
 author: "Chen Junyu Ryan"
 date: "2023-10-18"
 output:
@@ -62,3 +62,27 @@ ANS: I plan to use SHINY to make it interactive by using, drop down bars, moveab
 ANS: 
 
 ANS: challenges face was trying to make the graphs interactive as it was difficult to link the data set with the output variables. I wanted to make it so that the slider bar would be able to show the range of years however in the start i was unable to draw the link but after understanding the code i realise that the output required the number of years as a date format to make the link easier.
+
+Week 12 Submission
+# Include the challenges and errors that you faced and how you overcame them (if any)
+ANS:  It was difficult for me to create clickable images as i did not know the codes but after googling i was able to find codes that were online and also how to manipulate the images so that they would appear bigger and equally spaced out. It was also a challenge to create a correlation graph as this was not taught in our mod when visualsing the graph but i was able to find the code online and apply it into my graph to help me better visualise the relationship between the energy and valence graph 
+
+The use of interactive flip cards was also a challenge when doing as this code was something new to me and i had to look through websites to understand how this code was running and what were the variables to change in order for it to work for mine.
+
+
+Week 13 Submission
+#Answer the following questions,
+
+#(1) What is the theme of your data story?
+ANS: The Power Influencers Hold. With great power comes great responsibility, how much power does a twitter icon like Taylor Swift hold ? With such a great outreach, her tweets and views can be quite influential.
+#(2) Why is it important to address this question?
+ANS: It is important to understand how influencers have the ability to shape our perception and views of matters. Taylor Swift is a twitter icon and she does not shy away from politics which is often a taboo for influencers. Her desire to share her opinion and to help as many people as possible is admirable especially knowing her fanbase. With the graphs i am able to showcase her engagement and outreach and to hopefully allow people to understand the role and power influencers have on society. With the data story, I would like for people to get to know Taylor Swift better and to see her not only as a singer but also as someone who is unapologetic of what she stands for. Her engagement with her followers is something that other influencers can learn from
+#(3) Why do you think the data sources that you have curated can help you answer the question?
+ANS: The data sources are able to showcase the engagment taylor swift has with her fans and to show the content that she provides. The other data source of her spotify music allows me to show why her music is liked by people and to better show the impact her music has. These data combine together helps to showcase Taylor Swift not only as a singer but as a idol or figure that people can look up to. The interactive quality of the graphs for example the graph that showcases the number of tweets against year has a slider bar which is able to 
+#(4) What are the insights from the data and how are they depicted in plots?
+ANS:
+#(5) How did you implement this entire project? Were there any new concepts that you learnt to implement some aspects of it?
+ANS:
+
+
+

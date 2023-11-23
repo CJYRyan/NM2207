@@ -1,0 +1,12 @@
+name: TaylorBanner
+title: TaylorBanner
+username: cjyryan
+account: cjyryan
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 10565151
+bundleId: 7942368
+url: https://cjyryan.shinyapps.io/TaylorBanner/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE

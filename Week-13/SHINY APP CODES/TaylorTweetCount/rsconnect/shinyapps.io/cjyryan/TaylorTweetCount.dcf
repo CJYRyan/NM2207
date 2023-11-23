@@ -1,0 +1,12 @@
+name: TaylorTweetCount
+title: TaylorTweetCount
+username: cjyryan
+account: cjyryan
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 10456016
+bundleId: 7902731
+url: https://cjyryan.shinyapps.io/TaylorTweetCount/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE

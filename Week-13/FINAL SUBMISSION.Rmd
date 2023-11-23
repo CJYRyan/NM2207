@@ -1,5 +1,5 @@
 ---
-title: "Week 12 Final Project"
+title: "Week 13 FINAL SUBMISSION"
 author: "Chen Junyu Ryan"
 date: "2023-10-18"
 output:
@@ -70,4 +70,33 @@ ANS:  It was difficult for me to create clickable images as i did not know the c
 The use of interactive flip cards was also a challenge when doing as this code was something new to me and i had to look through websites to understand how this code was running and what were the variables to change in order for it to work for mine.
 
 
+Week 13 Submission
+#Answer the following questions,
+
+#(1) What is the theme of your data story?
+ANS: The Power Influencers Hold. With great power comes great responsibility, how much power does a twitter icon like Taylor Swift hold ? With such a great outreach, her tweets and views can be quite influential.
+
+#(2) Why is it important to address this question?
+ANS: It is important to understand how influencers have the ability to shape our perception and views of matters. Taylor Swift is a twitter icon and she does not shy away from politics which is often a taboo for influencers. Her desire to share her opinion and to help as many people as possible is admirable especially knowing her fanbase. With the graphs i am able to showcase her engagement and outreach and to hopefully allow people to understand the role and power influencers have on society. With the data story, I would like for people to get to know Taylor Swift better and to see her not only as a singer but also as someone who is unapologetic of what she stands for. Her engagement with her followers is something that other influencers can learn from
+
+#(3) Why do you think the data sources that you have curated can help you answer the question?
+ANS: The data sources are able to showcase the engagment taylor swift has with her fans and to show the content that she provides. The other data source of her spotify music allows me to show why her music is liked by people and to better show the impact her music has. These data combine together helps to showcase Taylor Swift not only as a singer but as a idol or figure that people can look up to. The interactive quality of the graphs for example the graph that showcases the number of tweets against year has a slider bar which is able to showcase the trend and her interaction with fans. In 2016-2018 Taylor took a break from social media and this is clearly reflected in the lack of tweets and the moment she sent her first tweet, the number of likes and interaction blew up. In addtion for the second graph i am able to showcase the progression of her number of likes through the months, showing the content that has given her the most likes.
+
+#(4) What are the insights from the data and how are they depicted in plots?
+ANS: The insights from the data from graph 1 would be the lack of engagment in 2016-2018 when taylor swift disappeared and how her content that were more political in nature garnered more likes and retweets. Further it also shows throughtout the years her content creation has been on the rise which reflects the greater attention she has with her fans. 
+
+from graph 2 it would be the increase in number of likes as the years increase as she becomes more and more popular with the people and how there is a rise in her engagment with her fanbase as it grows over the years 
+
+from graph 3 it would be the relationship of her music and how it has impacted the people. The correlation graph of her music shows us that generally her music that are more positive tend to have a greater valence and liking for people. Hence this could potentially help taylor in understanding what her fanbase likes so that she can also provide music that not only shapes people views but also provide them with more pleasing music.
+
+#(5) How did you implement this entire project? Were there any new concepts that you learnt to implement some aspects of it?
+ANS:
+
+This entire project required me to understand the formatting of the webpage. From the start of the webpage a clickable image to create more interaction between user and Taylor swift and at the same time using a background image to create a greater contrast between the static and the dynamic. The use of a carousell that would display Taylor swift albums to entice viewers and showcase the iconic Taylor in a more interesting manner. 
+
+The usage of shiny app was new as it required new codes which was not taught during the semester, for example the slider bar which changed according to the number of years. This slider bar usually controlled the bin width but i had to change the code so that it would follow the date format. 
+
+The use of flip cards to create a more engaging display of information as i want people to guess the question and have the answers appear in an interesting manner. The engagement between user is crucial as it further enhances the data story of influencers. 
+
+Lastly the use of an image to display information. I wanted people to guess which tweet had the most number of likes and retweets and thought that the by creating a clickable image it would draw viewers attention and allow them to have a more enagging way of receving information.
 

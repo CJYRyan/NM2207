@@ -1,0 +1,210 @@
+---
+title: "Taylor's Twitter Trend"
+format: html
+---
+
+```{=html}
+<!DOCTYPE html> 
+<html lang="en"> 
+<head>
+  <meta charset="UTF-8">   
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    body {      
+    margin: 0;      
+    padding: 0;      
+    background: url('reputation.jpg') no-repeat center center fixed; 
+    background-size: cover;    
+    font-family: 'Arial', sans-serif;    
+    color: #43819d; /* Text color */     
+    }  
+  </style> 
+</head> 
+</html>
+```
+<div>
+
+[![\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ CLICK TO CATCH ME LIVE \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_](ERASTOUR.jpg){width="2000"}](https://twitter.com/TSTheErasTour)
+
+</div>
+
+```{=html}
+<iframe height="320" width="160%" frameborder="no" src="https://cjyryan.shinyapps.io/TaylorBanner/"></iframe>
+```
+# Power of Influences
+
+<div>
+
+-   Impact of influencers on society is substantial, as they possess the\
+    ability to shape public opinion and mould perspectives
+
+-   According to CNBC "How Taylor Swift's political endorsement could\
+    become the 'biggest ripple ever' at the polls" she has a great influence\
+    on people
+
+-   Twitter has the largest outreach and is a platform people seek news\
+    and information from. Media as a crucial information spreader\
+
+</div>
+
+------------------------------------------------------------------------
+
+## Taylor's Twitter Trend
+
+<div>
+
+Graph 1 showcases Taylor's engagement over the years displaying a,\
+graph of number of tweet against years.\
+The trend over the years showcases an increase in her engagement\
+with a clear disappearance in 2015 -2017 due to her public feud with\
+Kim Kardashian and Kayne West because she grew tired of\
+"fighting for people's respect".
+
+</div>
+
+```{=html}
+<iframe height="500" width="100%" frameborder="no" src="https://cjyryan.shinyapps.io/TaylorTweetCount/"></iframe>
+```
+<div>
+
+<div>
+
+Graph 2 showcases Taylor's Twitter like over the years,\
+a graph of likes against month, over the years.\
+The trend shows a rise in her number of likes showing her increase\
+in popularity among the people.
+
+</div>
+
+</div>
+
+```{=html}
+<iframe height="500" width="100%" frameborder="no" src="https://cjyryan.shinyapps.io/TaylorLike/"></iframe>
+```
+
+------------------------------------------------------------------------
+
+## Taylor's Spotify Influence
+
+<div>
+
+A graph showing the correlation between the energy against\
+the valence of her music. To show how impact her music is.
+
+</div>
+
+```{=html}
+<iframe height="500" width="100%" frameborder="no" src="https://cjyryan.shinyapps.io/TaylorSpotify/"></iframe>
+```
+
+------------------------------------------------------------------------
+
+## Find Out More ...
+
+```{=html}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    /* Container styling */
+    .flip-card-container {
+      display: flex;
+      justify-content: space-around;
+      margin: auto;
+      width: 800px;
+    }
+
+    /* Flip card styling */
+    .flip-card {
+      perspective: 1000px;
+      width: 400px;
+      height: 300px;
+    }
+
+    /* Flip card inner container styling */
+    .flip-card-inner {
+      width: 100%;
+      height: 100%;
+      transform-style: preserve-3d;
+      transition: transform 0.5s;
+    }
+
+    /* Flip card hover effect */
+    .flip-card:hover .flip-card-inner {
+      transform: rotateY(180deg);
+    }
+
+    /* Front and back face styling */
+    .flip-card-front,
+    .flip-card-back {
+      width: 100%;
+      height: 100%;
+      position: absolute;
+      backface-visibility: hidden;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      text-align: center;
+    }
+
+    /* Front face styling */
+    .flip-card-front {
+      background-color: #fff;
+      color: #333;
+      font-size: 24px;
+    }
+
+    /* Back face styling */
+    .flip-card-back {
+      background-color: #67a5d1;
+      color: #333;
+      font-size: 18px;
+      transform: rotateY(180deg);
+    }
+
+    /* Customize the second flip card */
+    .flip-card:nth-child(2) .flip-card-front {
+     background-color: #67a5d1; /* Set a different background color for the second flip card front face */
+    }
+
+    .flip-card:nth-child(2) .flip-card-back {
+      background-color: #fff; /* Set a different background color for the second flip card back face */
+    }
+  </style>
+</head>
+<body>
+  <div class="flip-card-container">
+    <!-- First Flip Card -->
+    <div class="flip-card">
+      <div class="flip-card-inner">
+        <div class="flip-card-front">
+          Taylor's Birthday
+        </div>
+        <div class="flip-card-back">
+          13 December 1989
+        </div>
+      </div>
+    </div>
+
+    <!-- Second Flip Card -->
+    <div class="flip-card">
+      <div class="flip-card-inner">
+        <div class="flip-card-front">
+          Taylor Net Worth
+        </div>
+        <div class="flip-card-back">
+          1.1 Billion USD
+        </div>
+      </div>
+    </div>
+  </div>
+</body>
+</html>
+```
+```{=html}
+<iframe height="800" width="200%" frameborder="no" src="https://cjyryan.shinyapps.io/TaylorTweetClick/"></iframe>
+```
+
+------------------------------------------------------------------------

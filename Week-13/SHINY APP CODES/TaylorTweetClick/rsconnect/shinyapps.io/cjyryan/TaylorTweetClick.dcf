@@ -1,0 +1,12 @@
+name: TaylorTweetClick
+title: TaylorTweetClick
+username: cjyryan
+account: cjyryan
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 10560188
+bundleId: 7942434
+url: https://cjyryan.shinyapps.io/TaylorTweetClick/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE

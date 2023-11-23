@@ -1,0 +1,12 @@
+name: TaylorSpotify
+title: TaylorSpotify
+username: cjyryan
+account: cjyryan
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 10577855
+bundleId: 7947779
+url: https://cjyryan.shinyapps.io/TaylorSpotify/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
