@@ -1,0 +1,73 @@
+---
+title: "Week 9 Final Project"
+author: "Chen Junyu Ryan"
+date: "2023-10-18"
+output:
+  pdf_document: default
+  html_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+Week 9 Submission
+#What is the topic that you have finalized? (Answer in 1 or 2 sentences)?
+ANS: Exploring Taylor engagment and influence on social media along with her strategies like tweets, retweets, likes and music. 
+
+#What are the data sources that you have curated so far? (Answer 1 or 2 sentences).
+ANS: SOURCE 1: https://www.kaggle.com/datasets/thedevastator/taylor-swift-s-social-media-performance-tweet-en
+data source covers the number of likes, tweets and retweets from taylor swift from 2019 to 
+
+ANS: SOURCE 2: https://www.kaggle.com/datasets/jarredpriester/taylor-swift-spotify-dataset
+data source covers popularity of music, danceability and energy of taylor swift album and music.
+
+Week 10 Submission
+#What is the question that you are going to answer? (Answer: One sentence that ends with a question mark that could act like the title of your data story),
+ANS: How and why is Taylor Swift influential ?
+
+#Why is this an important question? (Answer: 3 sentences, each of which has some evidence, e.g., “According to the United Nations...” to justify why the question you have chosen is important),
+
+ANS: 1) Impact of influencers on society is substantial, as they possess the ability to shape public opinion and mould perspectives                      (I. Gamayanto, F. Alzami and S. Novianto, "Guidelines of Influencer Intelligence: Positive & Negative Impact of Influencer to Community," 2020 International Conference on Decision Aid Sciences and Application (DASA), Sakheer, Bahrain, 2020, pp. 90-94, doi: 10.1109/DASA51403.2020.9317236.)
+
+ANS: 2) According to CNBC "How Taylor Swift’s political endorsement could become the ‘biggest ripple ever’ at the polls" she has a great influence on people 
+
+ANS: 3) Learning from Taylor Swift in engagment to help other influencers be more engaging 
+
+#Which rows and columns of the dataset will be used to answer this question? (Answer: Actual names of the variables in the dataset that you plan to use).
+ANS: likescount,replycount,retweetcount,content,media,energy,valence
+
+Week 11 Submission
+#(1) List the visualizations that you are going to use in your project (Answer: What are the variables that you are going to plot? How will it answer your larger question?),
+ANS: Graph of number of tweets against year (options to choose range for trend ) This graph shows her relationship with followers by displaying her interaction throughtout the years with her tweets, the gradient and size of dots indicate her engagement. By tweeting more she is engaging more with her followers and the content of tweets are also more meaningful.
+
+ANS: Graph of Likecounts against month (options to toggle between years) This graph shows her influence and engagement with the people, the number of likes show her outreach and the possible audience that she has. Her tweets with more likes indicate greater support and infleunce. 
+
+ANS: Graph of Energy against Valence (static graph showing correlation between energy and valence ) This graph shows influence in music and how her popularity in music would impact the listeners
+
+ANS: Carousell of Taylor Swift album, to showcase her variety in music (displaying her albums throughout the years to let people know more about her music)
+
+ANS: Clickable banner of ERAS TOUR (interactive link to ERAS TOUR twitter page)
+
+ANS: Interactive Flip cards for people to guess her information (new way for viewing information)
+
+ANS: Clickable images of taylor swift tweets for people to guess her most liked tweets (interactive element for people to play)
+
+#(2) How do you plan to make it interactive? (Answer: features of ggplot2/shiny/markdown do you plan to use to make the story interactive) ,
+
+ANS: I plan to use SHINY to make it interactive by using, drop down bars, moveable bars that can toggle the range, clickable images that will redirect u to webpages, flip cards to add dyanmism and information and trivia games that require users to guess and click on them.
+
+
+#(3) What concepts incorporated in your project were taught in the course and which ones were self-learnt? (Answer: Create a table with topics in one column and Weeks in the other to indicate which concept taught in which week is being used. Leave the entry of the Week column empty for self-learnt concepts)
+
+ANS: 
+
+ANS: challenges face was trying to make the graphs interactive as it was difficult to link the data set with the output variables. I wanted to make it so that the slider bar would be able to show the range of years however in the start i was unable to draw the link but after understanding the code i realise that the output required the number of years as a date format to make the link easier.
+
+Week 12 Submission
+# Include the challenges and errors that you faced and how you overcame them (if any)
+ANS:  It was difficult for me to create clickable images as i did not know the codes but after googling i was able to find codes that were online and also how to manipulate the images so that they would appear bigger and equally spaced out. It was also a challenge to create a correlation graph as this was not taught in our mod when visualsing the graph but i was able to find the code online and apply it into my graph to help me better visualise the relationship between the energy and valence graph 
+
+The use of interactive flip cards was also a challenge when doing as this code was something new to me and i had to look through websites to understand how this code was running and what were the variables to change in order for it to work for mine.
+
+
+
